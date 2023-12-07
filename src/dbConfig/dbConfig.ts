@@ -13,7 +13,7 @@ export async function Connect(){
             process.exit()
         })
     }catch(err){
-        console.log("somtig wend wron")
+        console.log("somtig wend wrong")
         console.log(err)
     }
 }
